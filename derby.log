@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Thu Jan 12 15:32:13 EST 2012:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0134-d39e-e48f-0000066bd960 
+on database directory C:\Users\Brian\Documents\NetBeansProjects\RaceManager2\derby2011  with class loader sun.misc.Launcher$AppClassLoader@40735f45 
+Loaded from file:/C:/Users/Brian/Documents/Software%20Libs/db-derby-10.8.2.2-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0-b147
+user.dir=C:\Users\Brian\Documents\NetBeansProjects\RaceManager2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
